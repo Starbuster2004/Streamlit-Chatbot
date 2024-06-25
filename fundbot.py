@@ -86,7 +86,7 @@ def main():
 
         st.session_state.chat_title = f'ChatSession-{st.session_state.chat_id}'
 
-    st.write('# Invest IQ')
+    st.write('# YOUR_CHOISEOF_NAME')
 
     load_chat_data()
 
